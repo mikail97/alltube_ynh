@@ -1,6 +1,6 @@
 ---
 # Path to your youtube-dl binary
-youtubedl: vendor/ytdl-org/youtube-dl/youtube_dl/__main__.py
+youtubedl: /usr/bin/youtube-dl
 
 # Path to your python binary
 python: /usr/bin/python
